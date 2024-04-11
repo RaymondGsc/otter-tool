@@ -21,6 +21,7 @@ onMounted(() => {
         '|',
         'list',
         'panel',
+        'justify',
         'detail',
         {
           insert: [
